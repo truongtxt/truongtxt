@@ -1,16 +1,53 @@
-## Hi there 👋
+## Hi there 👋 I'm Truong
 
-<!--
-**xtruong91/xtruong91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Embedded Systems & Hardware Engineer
+💡 Passionate about building reliable, real-world electronics systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I’m working on
+
+* Embedded firmware (STM32, nRF, ESP32)
+* CAN bus systems & automotive electronics
+* Power electronics & inverter control (SPWM, grid integration)
+* Custom PCB design (KiCad)
+
+---
+
+### 🌱 Currently learning
+
+* Advanced Zephyr RTOS development
+* High-reliability system design
+* Real-time communication & diagnostics
+
+---
+
+### 👯 Looking to collaborate on
+
+* Embedded firmware projects
+* Hardware + software integration systems
+* Open-source electronics tools
+
+---
+
+### 💬 Ask me about
+
+* STM32 / nRF development
+* Motor control & power electronics
+* CAN / Modbus communication
+* Debugging tough embedded systems
+
+---
+
+### 📫 How to reach me
+
+* Email: [truongtx91@gmail.com](mailto:truongtx91@gmail.com)
+* GitHub: https://github.com/xtruong91
+
+---
+
+### ⚡ Fun fact
+
+I enjoy turning complex hardware problems into clean, reliable systems.
+
+---
