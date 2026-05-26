@@ -42,7 +42,7 @@
 ### 📫 How to reach me
 
 * Email: [truongtx91@gmail.com](mailto:truongtx91@gmail.com)
-* GitHub: https://github.com/xtruong91
+* GitHub: https://github.com/truongtxt
 
 ---
 
