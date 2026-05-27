@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Truong
+## Hi there 👋 I'm Tony
 
 🔧 Embedded Systems & Hardware Engineer
 💡 Passionate about building reliable, real-world electronics systems
