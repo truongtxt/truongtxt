@@ -10,7 +10,7 @@
 * Embedded firmware (STM32, nRF, ESP32)
 * CAN bus systems & automotive electronics
 * Power electronics & inverter control (SPWM, grid integration)
-* Custom PCB design (KiCad)
+* Custom PCB design (KiCad, Altium)
 
 ---
 
