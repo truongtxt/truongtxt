@@ -15,6 +15,7 @@ My focus is on precision, efficiency, and reliability from concept to prototype.
 I specialize in transforming ideas into reliable, production-ready electronic systems from schematic to firmware to prototype.
 
 💡 Core Expertise
+
 🔹 PCB Design & Hardware Development
 - Expert in Altium Designer, KiCad, Eagle, and EasyEDA
 - High-speed multilayer PCB design with analog/digital mixed-signal precision
@@ -44,7 +45,6 @@ Focused on power optimization, real-time control, and efficient resource use
 - Real-time system design, test bench automation, and measurement control
 
 🎯 Why Choose Me
-
 ✔ Master’s-level expertise in Embedded & Electronics Design
 ✔ Cross-domain proficiency: Hardware + Firmware + RF
 ✔ Precise documentation — schematics, BOM, and Gerber files
