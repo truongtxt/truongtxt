@@ -65,5 +65,6 @@ PCB | Embedded | RF | IoT | MATLAB | LabVIEW
 
 📫 How to reach me
 - Email: truongtx91@gmail.com
+- Phone/WhatApp: (+84)356.299.082
 - Website : https://hynatek.wordpress.com
 
