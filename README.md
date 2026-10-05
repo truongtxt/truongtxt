@@ -16,45 +16,32 @@ I specialize in transforming ideas into reliable, production-ready electronic sy
 
 💡 Core Expertise
 🔹 PCB Design & Hardware Development
-
-Expert in Altium Designer, KiCad, Eagle, and EasyEDA
-
-High-speed multilayer PCB design with analog/digital mixed-signal precision
-
-Proven experience with BMS boards, IoT devices, RF modules, and motor drivers
-
-Emphasis on EMC compliance, low-noise layout, and manufacturability
+- Expert in Altium Designer, KiCad, Eagle, and EasyEDA
+- High-speed multilayer PCB design with analog/digital mixed-signal precision
+- Proven experience with BMS boards, IoT devices, RF modules, and motor drivers
+- Emphasis on EMC compliance, low-noise layout, and manufacturability
 
 🔹 Embedded Systems & Firmware Engineering
-
-Proficient in C/C++, FreeRTOS, and bare-metal programming
-
-Platforms: STM32, ESP32, PIC, Arduino, nRF52, Raspberry Pi
-
-Integration of sensors, actuators, communication interfaces, and wireless modules
-
+- Proficient in C/C++, FreeRTOS, and bare-metal programming
+- Platforms: STM32, ESP32, PIC, Arduino, nRF52, Raspberry Pi
+- Integration of sensors, actuators, communication interfaces, and wireless modules
 Focused on power optimization, real-time control, and efficient resource use
 
 🔹 RF, IoT, Raspeberry PI & Wireless Communication
+- Skilled in Wi-Fi, BLE, Zigbee, LoRa, and custom RF design
+- PCB antenna tuning and matching network design
 
-Skilled in Wi-Fi, BLE, Zigbee, LoRa, and custom RF design
-
-PCB antenna tuning and matching network design
-
-Cloud & data integration via MQTT, HTTP/HTTPS, and Python automation
-
+🔹 Cloud & data integration via MQTT, HTTP/HTTPS, and Python automation
 🧠 Secondary Expertise
 🔸 Simulation & Modeling
 
-MATLAB/Simulink for control, signal processing, and dynamic systems
-
-LTSpice, Multisim, Proteus for analog/digital circuit simulation
+🔹 MATLAB/Simulink for control, signal processing, and dynamic systems
+- LTSpice, Multisim, Proteus for analog/digital circuit simulation
 
 🔸 Test, Measurement & Automation
 
-LabVIEW NI for data acquisition, visualization, and industrial automation
-
-Real-time system design, test bench automation, and measurement control
+🔹 LabVIEW NI for data acquisition, visualization, and industrial automation
+- Real-time system design, test bench automation, and measurement control
 
 🎯 Why Choose Me
 
@@ -67,10 +54,10 @@ Real-time system design, test bench automation, and measurement control
 Let’s turn your concept into a powerful, real-world product with precision, reliability, and innovation.
 
 Best regards,
-Tony Tran
+Truong (Tony)
 PCB | Embedded | RF | IoT | MATLAB | LabVIEW
 
 📫 How to reach me
-Email: truongtx91@gmail.com
-Web: [https://github.com/truongtxt](https://hynatek.wordpress.com/)
+- Email: truongtx91@gmail.com
+- Website : [https://github.com/truongtxt](https://hynatek.wordpress.com/)
 
