@@ -33,6 +33,7 @@ Focused on power optimization, real-time control, and efficient resource use
 - PCB antenna tuning and matching network design
 
 🔹 Cloud & data integration via MQTT, HTTP/HTTPS, and Python automation
+
 🧠 Secondary Expertise
 🔸 Simulation & Modeling
 
