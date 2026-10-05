@@ -46,10 +46,15 @@ Focused on power optimization, real-time control, and efficient resource use
 - Real-time system design, test bench automation, and measurement control
 
 🎯 Why Choose Me
+
 ✔ Master’s-level expertise in Embedded & Electronics Design
+
 ✔ Cross-domain proficiency: Hardware + Firmware + RF
+
 ✔ Precise documentation — schematics, BOM, and Gerber files
+
 ✔ Fast communication, full confidentiality, and milestone-based delivery
+
 ✔ Free post-project support for long-term client satisfaction
 
 Let’s turn your concept into a powerful, real-world product with precision, reliability, and innovation.
