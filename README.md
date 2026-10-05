@@ -59,5 +59,5 @@ PCB | Embedded | RF | IoT | MATLAB | LabVIEW
 
 📫 How to reach me
 - Email: truongtx91@gmail.com
-- Website : [https://github.com/truongtxt](https://hynatek.wordpress.com/)
+- Website : https://hynatek.wordpress.com
 
