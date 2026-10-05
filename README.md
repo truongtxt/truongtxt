@@ -60,11 +60,13 @@ Focused on power optimization, real-time control, and efficient resource use
 Let’s turn your concept into a powerful, real-world product with precision, reliability, and innovation.
 
 Best regards,
+
 Truong (Tony)
+
 PCB | Embedded | RF | IoT | MATLAB | LabVIEW
 
 📫 How to reach me
 - Email: truongtx91@gmail.com
-- Phone/WhatApp: (+84)356 299 082
+- Phone/WhatApp: +84 356 299 082
 - Website : https://hynatek.wordpress.com
 
